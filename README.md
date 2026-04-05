@@ -68,16 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Praasuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PJ2001-IND&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PJ2001-IND&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PJ2001-IND&theme=tokyonight&hide_border=true)
-
----
-
 ## 🏅 Highlights
 
 - 🥇 Built and deployed an AI agent for the **Meta PyTorch OpenEnv Hackathon**
