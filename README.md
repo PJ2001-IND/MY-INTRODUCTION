@@ -3,7 +3,7 @@
 ### Data Science & AI Enthusiast | Python | ML | Deep Learning | SQL | Open to Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praasuk%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praasuk-jain-425b6b1a3/)
-[![GitHub](https://img.shields.io/badge/GitHub-PJ2001--IND-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PJ2001-IND).
+[![GitHub](https://img.shields.io/badge/GitHub-PJ2001--IND-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PJ2001-IND)
 
 ---
 
